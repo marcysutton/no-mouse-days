@@ -1,5 +1,5 @@
 /* Set the style */ 
-var styles = '* { cursor: none !important; }';
+var styles = '* { cursor: none !important; pointer-events: none !important; }';
 
 /* Function to add style element */
 function addStyle(styles) {
