@@ -1,6 +1,6 @@
 {
   "name": "no-mouse-days",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package to disable the mouse cursor",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Marcy Sutton <marcy@gatsbyjs.com> (https://www.marcysutton.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/marcysutton/no-mouse-days"
 }
