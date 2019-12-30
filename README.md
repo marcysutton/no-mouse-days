@@ -47,3 +47,16 @@ if (dayOfWeek === 1) {
         })
 }
 ```
+
+## Example
+
+This project includes a small example that you can use to test the No Mouse Days script locally in a browser.
+
+Go into the example directory and install dependencies:
+
+```
+cd example
+npm start
+```
+
+With a server successfully running, you can then visit the provided localhost URL such as `http://localhost:1234`.
