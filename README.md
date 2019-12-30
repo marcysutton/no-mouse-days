@@ -52,7 +52,7 @@ if (dayOfWeek === 1) {
 
 This project includes a small example that you can use to test the No Mouse Days script locally in a browser.
 
-Go into the example directory and install dependencies:
+Go into the [example directory](https://github.com/marcysutton/no-mouse-days/tree/master/example) and install dependencies:
 
 ```
 cd example
