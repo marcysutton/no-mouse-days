@@ -1,6 +1,6 @@
 {
   "name": "no-mouse-days",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A package to disable the mouse cursor",
   "main": "index.js",
   "scripts": {
