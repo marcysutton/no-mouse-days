@@ -2,6 +2,13 @@
 
 Ever wanted a package that disables the mouse cursor one day a week so you can test keyboard accessibility as a team? No? Well here you go anyway.
 
+This package can be installed into a modern JavaScript app to inject a CSS styling developer tool that disables the mouse cursor. It's intended to encourage development of better keyboard support through browser testing (you are testing, aren't you?).
+
+## Prerequisites
+
+- Node.js
+- npm
+
 ## How to use
 
 1. Install the package
