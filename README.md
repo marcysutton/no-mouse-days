@@ -14,7 +14,7 @@ This package can be installed into a modern JavaScript app to inject a CSS styli
 1. Install the package
 
 ```sh
-npm install no-mouse-days
+npm install no-mouse-days --save-dev
 ```
 
 2. Import the package into your project for all times
