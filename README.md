@@ -2,7 +2,9 @@
 
 Ever wanted a package that disables the mouse cursor one day a week so you can test keyboard accessibility as a team? No? Well here you go anyway.
 
-This package can be installed into a modern JavaScript app to inject a CSS styling developer tool that disables the mouse cursor. It's intended to encourage development of better keyboard support through browser testing (you are testing, aren't you?).
+This package can be installed into a modern JavaScript app to inject a CSS styling developer tool that disables the mouse cursor, with a banner to notify developers of its use. It's intended to encourage development of better keyboard support through regular browser testing (you are testing, aren't you?).
+
+Read about No Mouse Days on the Accessibility Project: https://www.a11yproject.com/posts/2020-10-15-no-mouse-days
 
 ## Prerequisites
 
