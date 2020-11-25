@@ -60,3 +60,5 @@ npm start
 ```
 
 With a server successfully running, you can then visit the provided localhost URL such as `http://localhost:1234`.
+
+You can also view the example on GitHub pages: https://marcysutton.github.io/no-mouse-days/example/index.html

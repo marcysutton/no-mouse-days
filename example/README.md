@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # No Mouse Days Demo
 
 This example uses Parcel.js to install no-mouse-days locally and run it on a webpage.
